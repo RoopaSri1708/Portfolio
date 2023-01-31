@@ -1,0 +1,133 @@
+.content {
+    height: auto;
+    transition: all .5s;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.portfolio {
+    height: auto;
+    background-color: aliceblue;
+    margin-top: -20px;
+}
+
+.portfolio h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    padding: 20px 10px 5px 5px;
+}
+
+.portfolio p {
+    text-align: justify;
+    font-size: 18px;
+    color: black;
+    margin-left: 15px;
+    padding: 20px;
+
+}
+
+.portfolio .hireme button {
+    padding: 8px 18px 8px 18px;
+    font-weight: bold;
+    outline: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 470px;
+    margin-bottom: 18px;
+}
+
+/* menu */
+.filters .type {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+    margin-right: 2rem;
+    color: #8f8f8f;
+    font-weight: bold;
+    margin: 30px 10px 10px 10px;
+}
+
+.filters .type.active {
+    text-decoration: overline;
+    text-decoration-color: #5cb85c;
+    text-decoration-thickness: 3px;
+}
+
+.filters .type:hover {
+    background-color: #e8fffe;
+    color: black;
+}
+
+/* project */
+.project-content {
+    transition: all .5s;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.project-content .content-title h1 {
+    margin-left: 15px;
+    font-weight: 500;
+    font-size: 35px;
+    border-left: 4px solid #1c87c9;
+    padding: 8px;
+}
+
+
+.project-content .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 15px;
+    padding: 16px;
+    background-color: #ffff;
+}
+
+.project-content .card img {
+    width: 200px;
+    height: 100%;
+    padding: 2px;
+    margin: 5px;
+}
+
+.project-content .content-title h1 {
+    margin-left: 115px;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.project-content .card:hover {
+    background-color: #e8fffe;
+}
+
+.project-content .btn {
+    margin-left: 580px;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    color: white;
+}
+
+/* copyright */
+.copyright {
+    margin-top: 120px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
+    color: black;
+    margin-left: 200px;
+}
+
+.copyrightpart {
+    color: black;
+}
+
+.copyright-part {
+    color: #5cb85c;
+    margin-left: 15px;
+}
+
+.copyright .social-media i {
+    color: black;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}

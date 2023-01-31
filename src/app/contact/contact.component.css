@@ -1,0 +1,101 @@
+.content {
+    height: auto;
+    transition: all .5s;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.content .row {
+    margin-left: 300px;
+}
+
+.contact {
+    height: auto;
+    background-color: aliceblue;
+    margin-top: -20px;
+}
+
+.contact h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    padding: 20px 10px 5px 5px;
+}
+
+.contact p {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    margin-left: 15px;
+    padding: 20px;
+
+}
+
+.contact .hireme button {
+    padding: 8px 18px 8px 18px;
+    font-weight: bold;
+    outline: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 600px;
+}
+
+/* copyright */
+.copyright {
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
+    color: black;
+    margin-left: 200px;
+}
+
+.copyrights {
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
+    color: black;
+    margin-left: 5px;
+}
+
+.copyrights .social-media i {
+    color: black;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+
+.copyrightpart {
+    color: black;
+}
+
+.copyright-part {
+    color: #5cb85c;
+    margin-left: 15px;
+}
+
+.copyright .social-media i {
+    color: black;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+/* form */
+
+.content-title h1 {
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 35px;
+    border-left: 4px solid #1c87c9;
+    padding: 8px;
+
+}
+
+.hireme button {
+    padding: 8px 18px 8px 18px;
+    font-weight: bold;
+    outline: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 500px;
+    margin-bottom: 18px;
+}

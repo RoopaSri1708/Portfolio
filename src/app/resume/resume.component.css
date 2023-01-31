@@ -1,0 +1,254 @@
+.content {
+    height: auto;
+    transition: all .5s;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+label {
+    background-color: indigo;
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.resume {
+    height: auto;
+    background-color: aliceblue;
+    margin-top: -20px;
+}
+
+.resume h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    padding: 40px 20px 5px 5px;
+}
+
+.resume .pdfdownload button {
+    padding: 8px 18px 8px 18px;
+    font-weight: bold;
+    outline: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 445px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+/* resume */
+.container {
+    background-color: #fafafa !important;
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.025);
+    box-shadow: 0 8px 18px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 150px;
+    width: 800px;
+    margin-top: 30px;
+}
+
+.resumecontainer {
+    margin-top: 30px;
+}
+
+.container h1 {
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.container h4 {
+    color: grey;
+    margin-left: 35px;
+}
+
+.container .name {
+    margin-top: 15px;
+}
+
+.container .profile img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px 30px 30px 30px;
+}
+
+.container .social-media {
+    margin-left: 110px;
+    border-left: 1px solid grey;
+}
+
+.container .social-media i {
+    display: list-item;
+    font-size: 15px;
+    margin-top: 10px;
+    margin: 10px;
+    color: #616161;
+}
+
+/* work exp */
+.project-content {
+    transition: all .5s;
+    margin-left: 85px;
+    margin-bottom: 50px;
+}
+
+.profileintro p {
+    text-align: justify;
+    margin-left: -50px;
+}
+
+.project-content .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 15px;
+    padding: 16px;
+    background-color: #ffff;
+    margin-left: -100px;
+    margin-top: 10px;
+}
+
+.project-content .card .workexpcard1 {
+    width: 200px;
+    height: 180px;
+    padding: 2px;
+    margin: 5px;
+    margin-left: 40px;
+    background-color: #5cb85c;
+}
+
+.project-content .card .workexpcard1:hover {
+    background-color: transparent;
+    opacity: 3px;
+    border: 1px solid #5cb85c;
+}
+
+.project-content .content-title h1 {
+    margin-left: 175px;
+    font-weight: 500;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.project-content .btn {
+    margin-left: 580px;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.workexpcard1 h3 {
+    text-align: center;
+    margin-top: 65px;
+}
+
+.workexpcard1 h5 {
+    text-align: center;
+}
+
+.workexpcard2 {
+    text-align: justify;
+}
+
+.head {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(5, 68, 104);
+}
+
+.workexpcard2 #icon {
+    color: #5cb85c;
+}
+
+/* prjects */
+
+.project-content .content-title-projects h1 {
+    margin-left: 225px;
+    font-weight: 500;
+    font-size: 35px;
+    padding: 10px;
+}
+
+/* skillslist */
+.skillslist {
+    margin-left: 150px;
+    font-size: 18px;
+}
+
+.skillslist ul li i {
+    color: black;
+    text-align: center;
+}
+
+.skillslist #icon {
+    color: #5cb85c;
+}
+
+.skillslist #icon:hover {
+    color: red;
+}
+
+/* professionalskillslist */
+.professionalskillslist {
+    margin-left: 220px;
+}
+
+.title {
+    text-align: center;
+    color: grey;
+}
+
+/* content-title-languages */
+.content-title-languages {
+    margin-left: 150px;
+}
+
+.languagesskillslist {
+    margin-left: 200px;
+}
+
+.content-title-education {
+    margin-left: 100px;
+
+}
+
+.content-title-professional {
+    margin-left: 140px;
+}
+
+.content-title-interests {
+    margin-left: 200px;
+}
+
+.interestsskillslist {
+    margin-left: 200px;
+
+}
+
+/* copyright */
+.copyright {
+    margin-top: 120px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-align: center;
+    padding: 0;
+    color: black;
+    margin-left: 45px;
+}
+
+.copyrightpart {
+    color: black;
+}
+
+.copyright-part {
+    color: #5cb85c;
+    margin-left: 15px;
+}
+
+.copyright .social-medias i {
+    color: black;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
