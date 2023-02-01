@@ -32,9 +32,8 @@
 }
 
 .content .container p {
-    color: black;
     margin-bottom: 50px;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .content .container p {
@@ -67,6 +66,7 @@
 .container h4 {
     color: grey;
     font-weight: 100;
+    font-size: 13px;
 }
 
 /* about */
@@ -131,6 +131,13 @@
     background-color: #e8fffe;
 }
 
+.card h3 {
+    font-size: 18px;
+    color: rgb(5, 68, 104);
+}
+.card p{
+    text-align: center;
+}
 /* project */
 .project-content {
     transition: all .5s;
@@ -282,50 +289,3 @@
     margin-bottom: 30px;
 }
 
-/* about */
-.about-content {
-    transition: all .5s;
-    margin-left: 100px;
-    margin-bottom: 50px;
-    font-size: 20px;
-}
-
-.aboutdiv {
-    margin-left: 100px;
-}
-
-.about-content .headings {
-    font-weight: bold;
-    font-size: 18px;
-}
-
-.about-content .answers {
-    font-weight: normal;
-    font-size: 18px;
-
-}
-
-.about-content .subtitle-icon {
-    color: #5cb85c;
-}
-
-.about-content .subtitle {
-    margin-left: 15px;
-}
-
-.about-content img {
-    width: 300px;
-    height: 300px;
-    padding: 2px;
-    margin: 5px;
-}
-
-.about-content .content-title h1 {
-    margin-left: 115px;
-    font-weight: 500;
-    font-size: 35px;
-}
-
-.about-content .card:hover {
-    background-color: #e8fffe;
-}

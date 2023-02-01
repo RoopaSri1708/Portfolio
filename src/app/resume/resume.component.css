@@ -60,17 +60,18 @@ label {
 }
 
 .container h1 {
-    margin-left: 20px;
+    margin-left: 50px;
     font-weight: 500;
 }
 
 .container h4 {
     color: grey;
-    margin-left: 35px;
+    margin-left: 65px;
+    font-size: 14px;
 }
 
 .container .name {
-    margin-top: 15px;
+    margin-top: 31px;
 }
 
 .container .profile img {
@@ -104,8 +105,8 @@ label {
 .profileintro p {
     text-align: justify;
     margin-left: -70px;
-    font-size: 15px;
-    margin-top: 10px;
+    font-size: 14px;
+    margin-top: 20px;
 }
 
 .project-content .card {
@@ -173,16 +174,19 @@ label {
 
 /* projects */
 .project-content .content-title-projects h1 {
-    margin-left: 235px;
+    margin-left: 250px;
     font-weight: 500;
     font-size: 35px;
-    padding: 10px;
+    margin-top: 1px;
 }
 
 /* skillslist */
 .skillslist {
-    margin-left: 150px;
-    font-size: 18px;
+    margin-left: 270px;
+    font-size: 15px;
+}
+.skillslist li{
+    list-style: square;
 }
 
 .skillslist ul li i {
@@ -200,7 +204,11 @@ label {
 
 /* professionalskillslist */
 .professionalskillslist {
-    margin-left: 220px;
+    margin-left: 250px;
+    font-size: 15px;
+}
+.professionalskillslist li{
+    list-style:square;
 }
 
 .title {
@@ -270,13 +278,11 @@ label {
 }
 
 .about-content .headings {
-    font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .about-content .answers {
-    font-weight: normal;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .about-content .subtitle-icon {
@@ -305,5 +311,9 @@ label {
 }
 
 .content-title-about {
-    margin-left: 200px;
+    margin-left: 150px;
+}
+
+.aboutdiv{
+    margin-top: 40px;
 }
