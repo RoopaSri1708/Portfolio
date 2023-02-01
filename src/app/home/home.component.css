@@ -171,6 +171,10 @@
     color: white;
 }
 
+.project-content p {
+    text-align: justify;
+}
+
 /* skills */
 .skill-content {
     height: auto;

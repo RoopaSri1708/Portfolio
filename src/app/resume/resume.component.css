@@ -53,6 +53,12 @@ label {
     margin-top: 30px;
 }
 
+.resumecontainer p {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
 .container h1 {
     margin-left: 20px;
     font-weight: 500;
@@ -97,7 +103,9 @@ label {
 
 .profileintro p {
     text-align: justify;
-    margin-left: -50px;
+    margin-left: -70px;
+    font-size: 15px;
+    margin-top: 10px;
 }
 
 .project-content .card {
@@ -130,6 +138,7 @@ label {
     font-weight: 500;
     font-size: 35px;
     padding: 10px;
+    margin-top: 1px;
 }
 
 .project-content .btn {
@@ -162,10 +171,9 @@ label {
     color: #5cb85c;
 }
 
-/* prjects */
-
+/* projects */
 .project-content .content-title-projects h1 {
-    margin-left: 225px;
+    margin-left: 235px;
     font-weight: 500;
     font-size: 35px;
     padding: 10px;
@@ -251,4 +259,56 @@ label {
     color: black;
     margin-left: 15px;
     margin-bottom: 30px;
+}
+
+/* about */
+.about-content {
+    transition: all .5s;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.aboutdiv {
+    /* margin-left: 200px; */
+}
+
+.about-content .headings {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.about-content .answers {
+    font-weight: normal;
+    font-size: 18px;
+
+}
+
+.about-content .subtitle-icon {
+    color: #5cb85c;
+}
+
+.about-content .subtitle {
+    margin-left: 15px;
+}
+
+.about-content img {
+    width: 300px;
+    height: 300px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.about-content .content-title h1 {
+    margin-left: 115px;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.about-content .card:hover {
+    background-color: #e8fffe;
+}
+
+.content-title-about {
+    margin-left: 200px;
 }
