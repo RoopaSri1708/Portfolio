@@ -269,10 +269,6 @@ label {
     font-size: 20px;
 }
 
-.aboutdiv {
-    /* margin-left: 200px; */
-}
-
 .about-content .headings {
     font-weight: bold;
     font-size: 18px;
@@ -281,7 +277,6 @@ label {
 .about-content .answers {
     font-weight: normal;
     font-size: 18px;
-
 }
 
 .about-content .subtitle-icon {
